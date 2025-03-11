@@ -72,7 +72,7 @@ erp-aero-api/
 
 ---
 
-## 6. Контакты
+## 5. Контакты
 **Email:** maximov.roman@outlook.com  
 **TG:** https://t.me/okanekatsuro
 
